@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://github.com/cristianpg18/whatsapp-hack/blob/3c370b6c0aa3cbc0e094f0f04c0d838b2703fb4b/screenshots/evil.gif'></img>
+<img src='https://raw.githubusercontent.com/cristianpg18/whatsapp-hack/main/screenshots/evil.gif'></img>
 </p>
 <p align=center>  
 <a href=https://github.com/cristianpg18><img src="https://img.shields.io/badge/Author-cristianpg18-red.svg?style=for-the-badge&label=Author" /></a>
@@ -52,7 +52,7 @@ The installer will prompt you to choose an installation directory. You can keep 
 ```
 C:\Program Files\Tesseract-OCR
 ```
-<img src='https://github.com/cristianpg18/whatsapp-hack/blob/d32641a8c476c703dad6a6095bccbf5e5ca8e086/screenshots/Screenshot%20(108)_LI.jpg'></img>
+<img src='https://raw.githubusercontent.com/cristianpg18/whatsapp-hack/main/screenshots/Screenshot%20(108)_LI.jpg'></img>
 </p>
 
 ### Note : After adding Tesseract-OCR to path make sure to restart your pc
@@ -70,13 +70,13 @@ C:\Program Files\Tesseract-OCR
 ---
 ## Screenshots 
 <p align="left">
-   <img src="https://github.com/cristianpg18/whatsapp-hack/blob/ce4d74ca266a4c4cee69c39021665e8a400e1537/screenshots/1.png" width=750px height=500px>
+   <img src="https://raw.githubusercontent.com/cristianpg18/whatsapp-hack/main/screenshots/1.png" width=750px height=500px>
    </p>
    <p align="left">
-   <img src="https://github.com/cristianpg18/whatsapp-hack/blob/ce4d74ca266a4c4cee69c39021665e8a400e1537/screenshots/2.png" width=750px height=500px>
+   <img src="https://raw.githubusercontent.com/cristianpg18/whatsapp-hack/main/screenshots/2.png" width=750px height=500px>
    </p>
    <p align="left">
-   <img src="https://github.com/cristianpg18/whatsapp-hack/blob/ce4d74ca266a4c4cee69c39021665e8a400e1537/screenshots/3.png" width=750px height=500px>
+   <img src="https://raw.githubusercontent.com/cristianpg18/whatsapp-hack/main/screenshots/3.png" width=750px height=500px>
    </p>
 --- 
 
